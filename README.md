@@ -1,3 +1,3 @@
 # SmartPapers
 
-Smart Papers is a smart-contract approach to co-authoring and publishing scientific papers using Ethereum blockchain for tracking living research objects and agreements between authors in a decentralised and trusted way.
+SmartPapers is a smart-contract approach to co-authoring and publishing scientific papers using Ethereum blockchain for tracking living research objects and agreements between authors in a decentralised and trusted way.
